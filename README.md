@@ -1,5 +1,6 @@
 ### Hi/Hello/Namaste Its me Ahim 👋
 
+[![Ahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhimshaMudbari)](https://github.com/AhimshaMudbari/github-readme-stats)
 <!--
 **AhimshaMudbari/AhimshaMudbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
