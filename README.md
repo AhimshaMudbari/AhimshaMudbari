@@ -1,7 +1,7 @@
 ### Hi/Hello/Namaste Its me Ahim 👋 apprehended Ahimsha Mudbari
 
 #### MERN-MERN-MERN.
-(<a href="https://ibb.co/QfysyF0"><img src="https://i.ibb.co/t4VyVMR/g-ITHUB-BANNER.png" alt="g-ITHUB-BANNER" border="0"></a><br /><a target='_blank' href='https://500pxdownload.com/' />
+(<a href="https://ibb.co/QfysyF0"><img src="https://i.ibb.co/t4VyVMR/g-ITHUB-BANNER.png" alt="g-ITHUB-BANNER" border="0"></a><br /><a target='_blank' href='https://500pxdownload.com/' />)
 
 I will just let my profile give you my further introduction..... 
 
