@@ -5,9 +5,9 @@
 
 I will just let my profile give you my further introduction..... 
 
-Skills:  REACT / JS / HTML / CSS / Core PHP 
+Skills:  REACT / JS / HTML / CSS / Core PHP / java
 
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently learning Java and AWS 
 - ⚡ Fun fact: I don't need portal to travel another dimension coding is enough.  
 
 
