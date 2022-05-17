@@ -23,7 +23,6 @@ Skills:  REACT / JS / HTML / CSS / Core PHP / java
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhimshaMudbari)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AhimshaMudbari)  
 
 ![Profile views](https://gpvc.arturio.dev/AhimshaMudbari)  
 
