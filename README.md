@@ -7,7 +7,7 @@ I will just let my profile give you my further introduction.....
 
 Skills:  REACT / JS / HTML / CSS / Core PHP / java
 
-- 🌱 I’m currently learning Advance Java and AWS 
+- 🌱 I’m currently learning NodeJS 
 - ⚡ Fun fact: I don't need portal to travel another dimension coding is enough.  
 
 
