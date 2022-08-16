@@ -5,7 +5,7 @@
 
 I will just let my profile give you my further introduction..... 
 
-Skills:  REACT / JS / HTML / CSS / Core PHP / java
+Skills:  REACT / JS / HTML / CSS / Core PHP / Advance and Core Java / NodeJS / Express
 
 - 🌱 I’m currently learning NodeJS 
 - ⚡ Fun fact: I don't need portal to travel another dimension coding is enough.  
